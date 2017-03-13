@@ -1,0 +1,80 @@
+body
+{
+    max-width: 30rem;
+    background-color: beige;
+    
+}
+
+.masthead img
+{
+    width: 70%;
+    height: 70%;
+    margin: 1rem;
+    
+   
+}
+.main-content
+{
+    margin: 1rem;
+}
+
+h2
+{
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+button
+{   display: block;
+    width: 100%;
+    padding: 1rem;
+    border: 1px solid black;
+    font-size: 1rem;
+    color: brown;
+    font-weight: 600;
+    
+}
+
+ul
+{
+    display: block;
+    list-style-type: none;
+  
+   
+    -webkit-margin-after:0;
+   -webkit-padding-start:0; 
+    -webkit-padding-end:0; 
+    
+}
+
+ul li
+{
+    display: block;
+    width: 95%;
+    border-bottom: 0.5px solid black;
+    font-size: 1rem;
+    padding: 0.8rem 0.8rem 0.8rem 0.9rem;
+    background-color: grey;
+    color: white;
+ 
+}
+
+footer
+{
+    margin: 1rem;
+    align-content: center;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+footer a
+{
+    text-decoration: none;
+   
+  
+}
+ i
+{
+    margin: 0.5rem;
+  
+}
